@@ -1,0 +1,7 @@
+{
+  "name": "Predator",
+  "description": "Elite-tier Cybersecurity Expert and Ethical Hacking Specialist AI Assistant with real-time voice capabilities.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
